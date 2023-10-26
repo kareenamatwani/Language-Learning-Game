@@ -3,7 +3,7 @@
 
 🌟**Language Learning Quiz**
 
-This is a Language Learning Quiz application that allows users to practice their language skills by answering questions in different languages. The application currently supports English and Mandarin, but you can easily extend it to include more languages.
+This is a Language Learning Quiz application that allows users to practice their language skills by answering questions in different languages. The application currently supports English and Mandarin, but one can easily extend it to include more languages.
 
 
 🛠️**Details** 
