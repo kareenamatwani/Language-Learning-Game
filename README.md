@@ -3,14 +3,10 @@
 
 **Language Learning Quiz** 
 
----
-
 This is a Language Learning Quiz application that allows users to practice their language skills by answering questions in different languages. The application currently supports English and Mandarin, but you can easily extend it to include more languages.
 
----
-**Details** 
 
----
+**Details** 
 
 The application is built using HTML, CSS, and JavaScript. It provides a user-friendly interface for language learning and quizzes. Here's a brief overview of the technical aspects:
 
@@ -22,7 +18,6 @@ JavaScript: The interactive quiz functionality is implemented using JavaScript. 
 
 **Contributing**
 
----
 If you'd like to contribute to this project by adding more languages or features, feel free to fork the repository, make your changes, and submit a pull request. Your contributions are welcome!
 
 
