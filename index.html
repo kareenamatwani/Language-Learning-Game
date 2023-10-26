@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Language Learning Quiz</title>
+    <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body> 
+    <div class="quiz-container">
+      <div><h1 style="text-align: center;">Language Learning Game</h1></div> 
+      <div class="language-select">
+        <label for="language">Select Language:</label>
+        <select id="language">
+            <option value="english">English</option>
+            <option value="mandarin">Mandarin</option>
+        </select>
+      </div>
+      <br/>
+      <div class="quiz-section">
+         <div id="quiz">
+            <h2 class="question">Question</h2>
+            <div class="score"></div>
+            <hr/>
+            <ul>
+              <li>
+                <input type="radio" class="answer" name="answer" id="a" />
+                <label for="a" id="option_1">quiz option</label>
+              </li>
+              <li>
+                <input type="radio" class="answer" name="answer" id="b" />
+                <label for="b" id="option_2">quiz option</label>
+              </li>
+              <li>
+                <input type="radio" class="answer" name="answer" id="c" />
+                <label for="c" id="option_3">quiz option</label>
+              </li>
+              <li>
+                <input type="radio" class="answer" name="answer" id="d" />
+                <label for="d" id="option_4">quiz option</label>
+              </li>
+            </ul>
+            <hr/>
+            <div class="btn">
+               <button type="submit" id="submit">Submit</button>
+            </div>
+         </div>
+      </div>   
+    </div>  
+      <script src="index.js"></script>
+</body>
+</html>
